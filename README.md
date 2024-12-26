@@ -14,3 +14,6 @@ This project analyzes data on the world's richest individuals using Microsoft Ex
 - Data visualization for insights communication  
 
 This project highlights my ability to work with real-world data and derive actionable insights through structured analysis and visualization.  
+<img width="1470" alt="Screenshot 2024-12-26 at 10 17 29 PM" src="https://github.com/user-attachments/assets/2763fb02-5c24-43b2-a275-aca3af7fa031" />
+<img width="1470" alt="Screenshot 2024-12-26 at 10 39 40 PM" src="https://github.com/user-attachments/assets/d2970ecb-0107-4690-95f5-56dffb389cd0" />
+<img width="1470" alt="Screenshot 2024-12-26 at 10 39 22 PM" src="https://github.com/user-attachments/assets/57ed2230-c391-4f9b-81ea-90a69201eac0" />
